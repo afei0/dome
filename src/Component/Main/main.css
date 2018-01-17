@@ -1,0 +1,22 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.main-main{
+
+  width: 2000px;
+  height: 1000px;
+}
+.main{
+  position: relative;
+}
+.top{
+  width: 100px;
+  height: 100px;
+  background-color: #000;
+  position: absolute;
+  top: 0;
+  left: 0;
+  cursor: pointer;
+}

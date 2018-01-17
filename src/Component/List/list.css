@@ -1,0 +1,13 @@
+.list{
+  height: 500px;
+  width: 300px;
+  background-color: red;
+  position: absolute;
+  top: 0;
+  z-index: 99;
+  transition: all 1s;
+}
+*{
+  padding: 0;
+  margin: 0;
+}
